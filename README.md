@@ -32,6 +32,6 @@ Contoh:
 
 - Ainan: [Blog] (https://ainaan.wordpress.com/2019/11/01/labs-pengalaman-menggunakan-pelican-static-site-generator-untuk-membuat-website-statis/)
 
--
+-Ranung: (Blog) (https://tokusatsu.design.blog/2020/03/24/rgi-surabaya-grudo-6-24-maret-2020/)
 
 

@@ -40,4 +40,5 @@ Contoh:
 - johadi: [Blog] (https://thecemilanku.wordpress.com/2020/03/24/pengalaman-dan-peroses-pelatihanku-di-rgi-surabaya/)
 
 - Ranungsakti aryapangga: [Blog] (https://tokusatsu.design.blog/2020/03/24/rgi-surabaya-grudo-6-24-maret-2020/)
+- M. Avis Al Ikhsan : [Blog] (https://maspiss.blogspot.com/2020/03/sebuah-kisah-belajar-di-rgi-surabaya.html)
 

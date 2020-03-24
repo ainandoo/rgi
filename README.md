@@ -1,4 +1,5 @@
 # Pengumuman "Ujian Akhir"
+======
 
 _Bismillahirrahmanirrahim,_
 
@@ -12,9 +13,9 @@ Menindaklanjuti surat edaran dari Rumah Gemilang Indonesia & LAZ Al Azhar, denga
 
 4. Bagi yang sudah membuat cerita, silakan melakukan "pull request" dari repo ini dan menambahkan link menuju cerita yang sudah di upload.
 
-5. Pengumpulan cerita di tunggu hingga nanti malam pukul 00.00
+5. Pengumpulan cerita di tunggu hingga nanti malam pukul 00.00 WIB
 
-Demikian informasi mendadak ini saya buat. Mohon maaf belum bisa conference lagi karena ada kendala teknis di sini. Semoga teman-teman sehat selalu dan sukses semuanya.
+Demikian informasi mendadak ini saya buat. Mohon maaf belum bisa conference lagi karena ada kendala teknis di sini. Semoga teman-teman sehat selalu dan sukses semuanya. _Barakallahufikum._
 
 ---
 

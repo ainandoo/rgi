@@ -35,5 +35,6 @@ Contoh:
 - Asep: [Blog] (https://asepzainudin.blogspot.com/2020/03/pengalaman-belajar-di-rumah-gemilang.html)
 
 - johadi: [Blog] (https://thecemilanku.wordpress.com/2020/03/24/pengalaman-dan-peroses-pelatihanku-di-rgi-surabaya/)
+- Juhari: [Blog] (https://juhari.photo.blog/2020/03/24/cerita-saya-pas-pelatihan-di-rgi-surabaya-rpl/)
 
 

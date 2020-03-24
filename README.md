@@ -33,5 +33,7 @@ Contoh:
 - Ainan: [Blog] (https://ainaan.wordpress.com/2019/11/01/labs-pengalaman-menggunakan-pelican-static-site-generator-untuk-membuat-website-statis/)
 
 - Asep: [Blog] (https://asepzainudin.blogspot.com/2020/03/pengalaman-belajar-di-rumah-gemilang.html)
+- Juhari [Blog] (https://juhari.photo.blog/2020/03/24/cerita-saya-pas-pelatihan-di-rgi-surabaya-rpl/)
+
 
 

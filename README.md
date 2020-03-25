@@ -32,13 +32,16 @@ Contoh:
 
 - Ainan: [Blog] (https://ainaan.wordpress.com/2019/11/01/labs-pengalaman-menggunakan-pelican-static-site-generator-untuk-membuat-website-statis/)
 
+===
 
-- Asep: [Blog] (https://asepzainudin.blogspot.com/2020/03/pengalaman-belajar-di-rumah-gemilang.html)
-- Juhari [Blog] (https://juhari.photo.blog/2020/03/24/cerita-saya-pas-pelatihan-di-rgi-surabaya-rpl/)
+- Asep: [Blog](https://asepzainudin.blogspot.com/2020/03/pengalaman-belajar-di-rumah-gemilang.html)
 
+- Juhari [Blog](https://juhari.photo.blog/2020/03/24/cerita-saya-pas-pelatihan-di-rgi-surabaya-rpl/)
 
-- johadi: [Blog] (https://thecemilanku.wordpress.com/2020/03/24/pengalaman-dan-peroses-pelatihanku-di-rgi-surabaya/)
+- Johadi: [Blog](https://thecemilanku.wordpress.com/2020/03/24/pengalaman-dan-peroses-pelatihanku-di-rgi-surabaya/)
 
-- Ranungsakti aryapangga: [Blog] (https://tokusatsu.design.blog/2020/03/24/rgi-surabaya-grudo-6-24-maret-2020/)
-- M. Avis Al Ikhsan : [Blog] (https://maspiss.blogspot.com/2020/03/sebuah-kisah-belajar-di-rgi-surabaya.html)
+- Ranungsakti aryapangga: [Blog](https://tokusatsu.design.blog/2020/03/24/rgi-surabaya-grudo-6-24-maret-2020/)
 
+- M. Avis Al Ikhsan : [Blog](https://maspiss.blogspot.com/2020/03/sebuah-kisah-belajar-di-rgi-surabaya.html)
+
+- Ardyan Satya: [Blog](https://codepoetica.code.blog/2020/03/25/12-minggu-di-surabaya/)

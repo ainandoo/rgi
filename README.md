@@ -24,7 +24,7 @@ Demikian informasi mendadak ini saya buat. Mohon maaf belum bisa conference lagi
 2. Klik file README.md pada repo hasil fork. Lakukan edit (klik ikon pensil) pada file markdown ini. Tambahkan link tempat menaruh cerita, kemudian klik tombol "Commit changes" di bagian bawah.
 3. Lakukan pull request pada repo hasil fork yang telah di edit. Pilih tab "Pull Request", kemudian klik tombol "New Pull Request". Klik "create pull request".
 
-Apabila masih ada pertanyaan, bisa menghubungi lewat pesan Facebook di fb.com/ainando.kei
+Apabila ada pertanyaan, bisa menghubungi lewat Facebook Messenger atau melalui kepala asrama.
 
 ## Tempat pengumpulan, edit di bawah sini dan tambahkan link
 

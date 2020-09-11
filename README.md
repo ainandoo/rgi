@@ -1,4 +1,4 @@
-# Pengumuman "Ujian Akhir"
+# Pengumuman: "Ujian Akhir"
 
 _Bismillahirrahmanirrahim,_
 

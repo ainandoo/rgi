@@ -1,9 +1,14 @@
-/* h1 {
+h1 {
     color: blue;
     font-size: 80px;
 }
 
-p {
+.beda {
+    background-color: aqua;
+    border: solid 1px black;
+}
+
+/* p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
-} */
+} */ 

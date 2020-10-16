@@ -1,3 +1,21 @@
+## Latihan: Manipulasi DOM
+Buat sebuah halaman web yang mengimplementasikan konsep DOM
+
+Contoh:
+    - Form Response
+    - Button Click
+    - Event (mouseover, keystroke)
+    - Interaksi (klik, ketik)
+    - Tampilan
+    - Tema
+    - Animasi
+    - Dll.
+
+Referensi:
+https://www.w3schools.com/js/js_htmldom.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API
+
 # Project: Web pages
 
 Buat satu halaman desain web:

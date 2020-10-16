@@ -1,3 +1,7 @@
+Struktur data:
+    1. Jenis: Objek, array, list, map
+    2. Implementasi: method/properties, matriks, api
+
 ===  
 ## Latihan
 

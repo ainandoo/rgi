@@ -16,7 +16,7 @@ Layout,
 Responsive
 
 # JS
-Basic: 
+Basic:
     sintaks, komentar variabel, tipe data, operator, obyek
 
 Control flow:
@@ -28,16 +28,20 @@ Looping:
 Fungsi:
 scope, nested, closure, arrow
 
-String, regex:
-str obj,
+JS Object:
+properties, method, this
+
+JS Method:
+str method, date,
 
 Struktur data:
 objek, array, iterable, map, set, date/time
 
-exception:
+Exception:
+try, catch
 
 DOM manipulation:
-BOM, DOM
+DOM, BOM,
 
 http client:
 fetch, api

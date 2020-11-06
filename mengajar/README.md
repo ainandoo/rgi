@@ -2,44 +2,44 @@
 
 #### 1. Menggunakan WordPress
 
-Instalasi
+- Instalasi
 
-Membuat Konten
+- Membuat Konten
 
-Mengelola Konten
+- Mengelola Konten
 
-Mengelola Komentar
+- Mengelola Komentar
 
-Mengelola Tampilan
+- Mengelola Tampilan
 
-Menggunakan Plug-in
+- Menggunakan Plug-in
 
-Mengelola User
+- Mengelola User
 
-Backup WordPress
+- Backup WordPress
 
-Update WordPress
+- Update WordPress
 
 #### 2. WordPress Lanjut
 
-Menggunakan Page Builder
+- Menggunakan Page Builder
 
-Membuat Custom Page
+- Membuat Custom Page
 
-Membuat Custom Post Type
+- Membuat Custom Post Type
 
-Membuat Custom Taxonomies
+- Membuat Custom Taxonomies
 
 #### 3. WordPress Development
 
-Theme Development
+- Theme Development
 
-Plugin Development
+- Plugin Development
 
-WordPress Multisite
+- WordPress Multisite
 
 #### 4. WordPress Deployment
 
-Shared Hosting Deployment
+- Shared Hosting Deployment
 
-VPS/Cloud Deployment
+- VPS/Cloud Deployment

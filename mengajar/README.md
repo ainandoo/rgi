@@ -1,24 +1,45 @@
-## Belajar Mandiri
+## Cekpoin Belajar WordPress
 
-1. PHP: 
-    - Function (argumen, return),
-    - Array (index, associative, ), 
-    - Superglobal ($_GET, $_POST, $_FILES, dll. fungsinya, bedanya, dst.)
-    - include vs require
-    - cara upload file
+#### 1. Menggunakan WordPress
 
-2. PHP-Database:
-    - Cara koneksi ke DB
-    - Cara membuat DB dan tabel
-    - Cara insert data
-    - Cara query data (select, delete, update)
+Instalasi
 
-### Referensi:
+Membuat Konten
 
-https://www.php.net/manual/en/index.php
+Mengelola Konten
 
-https://phptherightway.com/
+Mengelola Komentar
 
-https://www.w3schools.com/php/default.asp
+Mengelola Tampilan
 
-https://www.w3schools.com/sql/default.asp
+Menggunakan Plug-in
+
+Mengelola User
+
+Backup WordPress
+
+Update WordPress
+
+#### 2. WordPress Lanjut
+
+Menggunakan Page Builder
+
+Membuat Custom Page
+
+Membuat Custom Post Type
+
+Membuat Custom Taxonomies
+
+#### 3. WordPress Development
+
+Theme Development
+
+Plugin Development
+
+WordPress Multisite
+
+#### 4. WordPress Deployment
+
+Shared Hosting Deployment
+
+VPS/Cloud Deployment

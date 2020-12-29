@@ -1,63 +1,110 @@
 
-# Internet
-Internet, http, browser, DNS, IP, domain, hosting
+## Internet
+- Internet, HTTP, browser, DNS, IP, domain, hosting
 
-# OS
+## OS
 Linux, Server, Client, Desktop, command line
 
-# HTML
-Basic (text, image, link, video)
-Form, tabel
-Semantic, inspect element
+## HTML
+- Basic (text, image, link, video)
+- Form, tabel
+- Semantic, inspect element
 
-# CSS
-Basic,
-Layout,
-Responsive
+## CSS
+- Basic,
+- Layout,
+- Responsive
 
-# JS
-Basic:
-    sintaks, komentar variabel, tipe data, operator, obyek
+## JS
+- Basic:
+    - sintaks, komentar variabel, tipe data, operator, obyek
 
-Control flow:
-    if, switch
+- Control flow:
+    - if, switch
 
-Looping:
-    for, while, for .. in
+- Looping:
+    - for, while, for .. in
 
-Fungsi:
-scope, nested, closure, arrow
+- Fungsi:
+    - scope, nested, closure, arrow
 
-JS Object:
-properties, method, this
+- JS Object:
+    - properties, method, this
 
-JS Method:
-str method, date,
+- JS Method:
+    - str method, date,
 
-Struktur data:
-objek, array, iterable, map, set, date/time
+- Struktur data:
+    objek, array, iterable, map, set, date/time
 
-Exception:
-try, catch
+- Exception:
+    - try, catch
 
-DOM manipulation:
-DOM, BOM,
+- DOM manipulation:
+    - DOM, BOM,
 
-http client:
-fetch, api
+#### *Javascript Lanjutan
+- http client:
+    -fetch, api
 
-asychronous:
-callback, promise, async, await
+- asychronous:
+    - callback, promise, async, await
 
-advanced:
-OOP, prototype, class, constructor, method, inheritance
+- advanced:
+    - OOP, prototype, class, constructor, method, inheritance
 
-functional programming:
-immutability, recurtion, currying?
+- functional programming:
+    - immutability, recurtion, currying?
 
-# PHP
+## PHP
 
 https://www.php.net/manual/en/index.php
 https://phptherightway.com/
 
 https://roadmap.sh/postgresql-dba
+
+## WordPress CMS
+
+#### 1. Menggunakan WordPress
+
+- Instalasi
+
+- Membuat Konten
+
+- Mengelola Konten
+
+- Mengelola Komentar
+
+- Mengelola Tampilan
+
+- Menggunakan Plug-in
+
+- Mengelola User
+
+- Backup WordPress
+
+- Update WordPress
+
+#### 2. WordPress Lanjut
+
+- Menggunakan Page Builder
+
+- Membuat Custom Page
+
+- Membuat Custom Post Type
+
+- Membuat Custom Taxonomies
+
+#### 3. WordPress Development
+
+- Theme Development
+
+- Plugin Development
+
+- WordPress Multisite
+
+#### 4. WordPress Deployment
+
+- Shared Hosting Deployment
+
+- VPS/Cloud Deployment

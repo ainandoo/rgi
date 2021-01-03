@@ -35,7 +35,7 @@ Linux, Server, Client, Desktop, command line
     - str method, date,
 
 - Struktur data:
-    objek, array, iterable, map, set, date/time
+    - objek, array, iterable, map, set, date/time
 
 - Exception:
     - try, catch
@@ -43,9 +43,10 @@ Linux, Server, Client, Desktop, command line
 - DOM manipulation:
     - DOM, BOM,
 
-#### *Javascript Lanjutan
+## *Javascript Lanjutan
+
 - http client:
-    -fetch, api
+    - fetch, api
 
 - asychronous:
     - callback, promise, async, await

@@ -13,7 +13,7 @@
     - RESTful
     - Dashboard
     
-    Teknologi: Backend Language (JS, PHP, Python, Go, dll.) ; DB Query, REstful API, 
+    Teknologi: Backend Language (JS, PHP, Python, Go, dll.) ; DB Query, REstful API, GraphQL
     
     Tools: Backend framework (Express, Laravel, Django, dll.) ; WordPress
     

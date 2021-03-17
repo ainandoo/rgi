@@ -62,7 +62,8 @@
 
 3. Digital Marketing
     - Menulis (Konten, Copywriting)
-    - Memasarkan & Jualan (Medsos/Search Engine)
+    - Memasarkan (Medsos/Search Engine)
+    - Menjual (Reseller, Affiliate)
    
    Teknologi: Copywriting (Headline, konten, call to action)
    

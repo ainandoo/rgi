@@ -56,12 +56,14 @@
 
 ## Opsional
 
-1. Digital Marketing
+1. Desain Web (Desain grafis, HTML, CSS)
+
+2. WordPress "Developer" (WordPress, Plugin)
+
+3. Digital Marketing
     - Menulis (Konten, Copywriting)
     - Memasarkan & Jualan (Medsos/Search Engine)
    
    Teknologi: Copywriting (Headline, konten, call to action)
    
    Tools: Media sosial, marketplace, tools mesin pencari
-
-2. 

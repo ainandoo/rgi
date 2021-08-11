@@ -1,7 +1,7 @@
 ## Dari web lalu ke mana?
 
 1. Front End
-    - Web     
+    - Web
     - Mobile
     - Desktop
 

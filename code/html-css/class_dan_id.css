@@ -1,0 +1,40 @@
+
+h1, h2, p {
+    color: brown;
+    clear: both;
+}
+
+.hijau {
+    color: lawngreen;
+}
+
+.klasik {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#sub {
+    font-size: 50px;
+}
+
+.ukuran {
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+}
+
+div {
+    float: left;
+}
+
+.satu {
+    background-color: hotpink;
+}
+.dua {
+    background-color: indianred;
+}
+.tiga {
+    background-color: lightseagreen;
+}
+.empat {
+    background-color: lime;
+}

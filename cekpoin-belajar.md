@@ -42,7 +42,6 @@
     - properties, method, this
 3. JS Method:
     - str method, date, etc.
-
 4. HTTP Client:
     - fetch, api
 5. Asychronous:

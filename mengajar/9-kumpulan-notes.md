@@ -1,3 +1,15 @@
+
+## Presentasi dan Diskusi
+
+1. Sudah belajar apa saja?
+2. Sudah bisa bikin apa?
+3. Sudah ada rencana belajar kedepan apa?
+4. Sudah ada pandangan ingin melakukan apa?
+
+* Ceritakan dan demokan progres pekerjaan kalian
+
+===
+
 Struktur data:
     1. Jenis: Objek, array, list, map
     2. Implementasi: method/properties, matriks, api

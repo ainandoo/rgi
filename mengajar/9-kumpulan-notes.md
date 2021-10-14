@@ -1,4 +1,14 @@
+## Challenge: Hari ini
 
+1. Persepsikan diri
+    - Ingin dikenal sebagai apa
+    - Ingin bisa apa
+
+2. Presentasikan diri
+    - Kemampuan, skill
+    - Karya
+    - Ide
+    
 ## Presentasi dan Diskusi
 
 1. Sudah belajar apa saja?

@@ -7,7 +7,7 @@
   .heading h2 {
     font-size: 20px;
   }
-  
+
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -19,11 +19,11 @@
   .header-right {
     display: none;
   }
-  
+
   .menu-icon {
     display: block;
   }
-  
+
   .btn {
     width: 100%;
   }
@@ -31,25 +31,25 @@
   .facebook {
     margin-bottom: 10px;
   }
-  
+
   .top-wrapper {
     text-align: left;
   }
-  
+
   .top-wrapper h1 {
     font-size: 24px;
     line-height: 36px;
   }
-  
+
   .top-wrapper p {
     font-size: 14px;
     line-height: 20px;
   }
-  
+
   .lesson {
     width: 100%;
   }
-  
+
   footer {
     text-align: center;
   }

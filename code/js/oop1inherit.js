@@ -20,7 +20,7 @@ class Person {
 }
     
 // object instance 1 dari class
-let han = new Person('Ainan', 'Ganteng', 25, 'male', ['Smuggling']);
+let han = new Person('Mister', 'Ainan', 25, 'male', ['Smuggling']);
 han.greeting();
 
 // object instance 2 dari class

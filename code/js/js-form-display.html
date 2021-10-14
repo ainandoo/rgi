@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Biodata:</h2>
+
+<form >
+  Nama Depan: <input type="text" name="fname" id="nadep"><br>
+  Nama Belakang: <input type="text" name="lname" id="nabel"><br><br>
+  <input type="button" onclick="ambilNama()" value="Submit">
+</form>
+
+<p>Nama kamu adalah: <span id="kotak"></span></p>
+
+<img src="###">
+
+<script>
+function ambilNama() {
+  let nilai = document.getElementById('nadep').value;
+  let nilai2 = document.getElementById('nabel').value;
+  document.getElementById("kotak").innerHTML = nilai + " " + nilai2;
+}
+</script>
+
+</body>
+</html>

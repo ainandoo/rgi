@@ -1,4 +1,5 @@
-## Challenge: Hari ini
+
+## Challenge: Persepsi dan Presentasi
 
 1. Persepsikan diri
     - Ingin dikenal sebagai apa
@@ -20,33 +21,15 @@
 
 ===
 
-Struktur data:
-    1. Jenis: Objek, array, list, map
-    2. Implementasi: method/properties, matriks, api
-
-===  
-## Latihan
-
-1. Box Model
-2. Icon
-
-# Latihan
-
-1. Silakan lanjut membuat satu halaman website yang ada layout-nya
-2. Buat akun di github.com dan coba login
-
-    note: jangan gunakan username yang terlalu alay..
-
-    contoh  -> username: ainandoo
-    jadinya -> https://github.com/ainandoo
-    username.github.io
-====
-
 ## Materi
 
 1. meta, link, source. multiple use.
 2. bootstrap: CDN, offline,
 3. HTML layout
+
+Struktur data:
+    1. Jenis: Objek, array, list, map
+    2. Implementasi: method/properties, matriks, api
 
 ## Mari berdiskusi..
 
@@ -64,11 +47,14 @@ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 
 ===
 
-## Referensi: 
+## Referensi
 
 1. https://www.w3schools.com/
 2. https://developer.mozilla.org/en-US/
 3. https://translate.google.com/
+
+- WP Unpas
+- Malas Ngoding
 
 ## WINDOWS
 
@@ -80,15 +66,16 @@ C:\user\ainan\Download
 /opt/lampp/htdocs/
 /home/ainan/Download
 
-## TANYA JAWAB: Linux & Bahasa Pemrograman
+## Diskusi: Linux & Bahasa Pemrograman
 
 - Jenis bahasa pemrograman: 
-    Low -> high
+    Low -> high (binary, machine, assembly, low, high,)
 - Linux & Open Source: 
     Analogi lego. Dapat dimodifikasi.
 - Why Linux? kenapa di pakai bikin web dan programmer. daripada windows. 
     Linux = cloud & server
+    command line = modern web development (npm, composer, front end, server)
 - Kesulitan dari memakai linux
     - UI, terminal, command
 
-## Intro: Pengenalan Internet & OS
+## Diskusi: Pengenalan Internet & OS

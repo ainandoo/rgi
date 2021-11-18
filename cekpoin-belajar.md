@@ -12,6 +12,8 @@
 1. Basic (text, image, link, video)
 2. Form, tabel
 3. Semantic, inspect element
+4. New tag, advanced atribute
+4. Intro to Web API
 
 ## CSS
 
@@ -75,7 +77,8 @@
 
 - Session
 - Cookies
-- RESt API
+- RESTful API
+- PHP OOP
 
 ## SQL Database
 

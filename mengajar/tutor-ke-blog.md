@@ -122,6 +122,8 @@ Case B: Repository with content/README.md
 $ git branch nama_branch
 $ git checkout nama_branch
 
+## GitHub Pages
+
 ## Clone repo
 https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 

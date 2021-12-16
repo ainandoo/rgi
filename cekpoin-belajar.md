@@ -59,6 +59,8 @@
 
 ## PHP
 
+0. Instalasi environment (xampp, nginx, web/db server)
+
 1. PHP: 
     - Basic Programming
     - Function (argumen, return)

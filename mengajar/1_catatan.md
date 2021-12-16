@@ -13,65 +13,21 @@ https://www.secjuice.com/php-rce-bypass-filters-sanitization-waf/
 
 Persiapkan presentasi progres project akhir kalian 
 
-
-
-
-
-
-
-
-
-
-
-// Wisata Karawang
+Wisata Karawang
 - Apa yang biasa di cari oleh traveler?
 - Apakah setiap kebutuhan traveler sama? Koper/Ransel?
 
-
-
-
-
-
-
-
-
-// Website pondok
+Website pondok
 - Apa keunggulan pendaftaran melalui website?
 - Adakah alasan untuk tidak menggunakan website?
 
-
-
-
-
-
-
-
-
-
-// Kedai kopi
+ Kedai kopi
 - Jualan apa saja?
 - Mana yang online? Mana yang dine-in?
 
-
-
-
-
-
-
-
-
-
-// Lokapasar: Perlengkapan outdoor & Pakaian
+Lokapasar: Perlengkapan outdoor & Pakaian
 - kenapa harus beli disini?
     - ongkir, cashback, delivery luar pulau?
-
-
-
-
-
-
-
-
 
 ============
 

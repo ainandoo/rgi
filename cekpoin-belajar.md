@@ -53,6 +53,10 @@
 7. Functional Paradigm:
     - immutability, recurtion, currying?
 
+## JS Runtime & Framework
+- NodeJS
+- FE/BE Framework
+
 ## PHP
 
 1. PHP: 
@@ -69,21 +73,21 @@
     - Cara insert data
     - Cara query data (select, delete, update)
 
-- https://www.w3schools.com/php/default.asp
-- https://www.php.net/manual/en/index.php
-- https://phptherightway.com/
-
 ## PHP Lanjut
 
-- Session
-- Cookies
+- Session, Filter, Cookies
 - RESTful API
 - PHP OOP
+- Framework (Laravel)
 
 ## SQL Database
 
-- https://www.w3schools.com/sql/default.asp
-- https://roadmap.sh/postgresql-dba
+- Database fundamental
+- Database design
+- SQL basics (CRUD)
+- SQL advanced (sort, join, union)
+- Aggregate Function
+- DB Admin (import, export, setup db server)
 
 ## WordPress CMS
 

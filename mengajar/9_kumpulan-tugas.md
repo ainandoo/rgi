@@ -96,9 +96,9 @@ Silakan "tiru plek" desain layoutnya,
 
 ## HTML: Form, table and button
 
-1. HTML Form
-2. HTML Button
-3. HTML Table
+1. HTML Table   -> Daftar pelajaran. Daftar menu. Daftar kurs.
+2. HTML Form    -> Formulir pendaftaran.
+3. HTML Button  -> Submit. Tombol.
 
 
 ## HTML: Membuat dokumen web (Surat, desain profil, no CSS)

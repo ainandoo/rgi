@@ -33,6 +33,20 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduct
 https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API
 
 
+## JS: Konsep Dasar
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+# Konsep: DNS ; IP ; Internet
+
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+
+# Konsep: Web server. Web Client
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+
+
 # Latihan: Halaman statis online
 
 Buat satu halaman desain web:
@@ -42,6 +56,17 @@ Buat satu halaman desain web:
 3. upload ke github
 4. wajib presentasi
 
+# Presentasi: (minimal) satu halaman web
+
+1. Membuat apa
+2. Konsepnya bagaimana
+3. Kesulitannya
+4. Cara menyelesaikan
+5. Langkah selanjutnya
+
+# Latihan: Publish Web Online
+
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website
 
 # Latihan: Git dan GitHub
 
@@ -93,6 +118,7 @@ Silakan "tiru plek" desain layoutnya,
 2. Layout: Fixed, Fluid. 
 3. CSS Layout: Table (x), Float-clear, Grid, Flexbox
 
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
 
 ## HTML: Form, table and button
 
@@ -101,18 +127,32 @@ Silakan "tiru plek" desain layoutnya,
 3. HTML Button  -> Submit. Tombol.
 
 
+## Latihan: Struktur direktori proyek
+
+- File/folder   : index.html, images/asset, styles, script 
+- Penamaan      : tanpa kapital, tanpa spasi
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+
 ## HTML: Membuat dokumen web (Surat, desain profil, no CSS)
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content
 
 
+## Latihan: Menyiapkan materi untuk website
+
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like
+
+
 ## Latihan: Membuat Flowchart
 
 - Buatlah diagram alur (flowchart) pendaftaran santri RGI
+- Membuat alur program ganjil dan genap; bil.prima?
 
 https://app.creately.com/diagram/create
 
-- Membuat alur program ganjil dan genap; bil.prima?
+
 
 

@@ -1,11 +1,12 @@
 
 ## Basic
-- Komputer: Monitor, PC, RAM, CPU, Harddisk/SSD
-- Teks editor: VS Code, Sublime Text, Notepad++
-- Web Browser: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge
-- Pengolah Gambar: GIMP, Inkscape
-- Pengolah Dokumen: LibreOffice
-- Development Tools: XAMPP, Filezilla,
+
+- Komputer          : Monitor, PC, RAM, CPU, Harddisk/SSD
+- Teks editor       : VS Code, Sublime Text, Notepad++
+- Web Browser       : Google Chrome, Mozilla Firefox, Opera, Microsoft Edge
+- Pengolah Gambar   : GIMP, Inkscape
+- Pengolah Dokumen  : LibreOffice
+- Development Tools : XAMPP, Filezilla,
 
 ## Internet
 
@@ -13,7 +14,7 @@
 
 ## OS
 
-- Linux, Server, Client, GUI Desktop, CLI
+- Linux, Server, Client, GUI Desktop, CLI, directory
 
 ## HTML
 

@@ -1,6 +1,11 @@
 
 ## referensi
 
+HTTP
+- https://dev.opera.com/articles/http-basic-introduction/
+- https://dev.opera.com/articles/http-lets-get-it-on/
+- https://dev.opera.com/articles/http-response-codes/
+
 https://owasp.org/www-pdf-archive/
 
 https://stackoverflow.com/questions/24900411/can-my-php-login-page-be-bypass#24900547

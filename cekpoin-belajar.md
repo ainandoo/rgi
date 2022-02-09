@@ -1,4 +1,12 @@
 
+## Basic
+- Komputer: Monitor, PC, RAM, CPU, Harddisk/SSD
+- Teks editor: VS Code, Sublime Text, Notepad++
+- Web Browser: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge
+- Pengolah Gambar: GIMP, Inkscape
+- Pengolah Dokumen: LibreOffice
+- Development Tools: XAMPP, Filezilla,
+
 ## Internet
 
 - Internet, HTTP, Browser, DNS, IP, Domain, Hosting

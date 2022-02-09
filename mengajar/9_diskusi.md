@@ -1,4 +1,8 @@
 
+## presentasi
+
+1. Presentasikan progress: bikin apa, sampai mana, rencana ke depan
+
 ## Challenge: Persepsi dan Presentasi
 
 1. Persepsikan diri

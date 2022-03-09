@@ -3,8 +3,12 @@
 1$ rails new tweet_app
 2$ rails server
 
+
+
 1$ rails generate controller home top
 localhost:3000/home/top
+
+
 
 app/views/home/top.html.erb
 <div class="main top-main">
@@ -14,11 +18,15 @@ app/views/home/top.html.erb
   </div>
 </div>
 
+
+
 app/controllers/home_controller.rb
 class HomeController < ApplicationController
   def top
   end
 end
+
+
 
 config/routes.rb
 Rails.application.routes.draw do
@@ -26,6 +34,8 @@ Rails.application.routes.draw do
 end
 localhost:3000/home/top
 localhost:3000/home/hello
+
+
 
 Rails.application.routes.draw do
   # Rewrite "home/top"
@@ -35,6 +45,8 @@ Rails.application.routes.draw do
   # Rewrite "home/top"
   get "top" => "home#top"
 end
+
+
 
 /config/routes.rb
 Rails.application.routes.draw do
@@ -59,6 +71,8 @@ end
     Users can post and interact with short messages called "tweets".
   </p>
 </div>
+
+
 
 top.html.erb
 <!-- Paste the code for the header -->
@@ -96,6 +110,8 @@ about.html.erb
     Users can post and interact with short messages called "tweets".
   </p>
 </div>
+
+
 
 app/assets/stylesheet/home.scss
 /* Reset ================================ */
@@ -338,6 +354,8 @@ header {
   font-size: 14px;
 }
 
+
+
 public/images.jpg
 app/assets/stylesheets/home.scss
 background-image: url("/top.jpg");
@@ -346,12 +364,15 @@ app/views/home/about.html.erb
 <img class="about-img" src="/tweets.png">
 
 
+
 .../routes.rb
 Rails.application.routes.draw do
   # Rewrite the「get "top"」route
   get "/" => "home#top"
   get "about" => "home#about"
 end
+
+
 
 .../top.html.erb && .../about.html.erb
 <header>

@@ -78,7 +78,7 @@
 0. Instalasi environment (xampp, nginx, web/db server)
 
 1. PHP: 
-    - Basic Programming
+    - Basic Programming (variable, data type, etc.)
     - Function (argumen, return)
     - Array (index, associative)
     - Superglobal (fungsinya, bedanya, dst.)

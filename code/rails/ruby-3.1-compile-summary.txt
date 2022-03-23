@@ -1,0 +1,65 @@
+
+Configuration summary for ruby version 3.1.1
+
+   * Installation prefix: /usr/local
+   * exec prefix:         ${prefix}
+   * arch:                x86_64-linux
+   * site arch:           ${arch}
+   * RUBY_BASE_NAME:      ruby
+   * ruby lib prefix:     ${libdir}/${RUBY_BASE_NAME}
+   * site libraries path: ${rubylibprefix}/${sitearch}
+   * vendor path:         ${rubylibprefix}/vendor_ruby
+   * target OS:           linux
+   * compiler:            gcc
+   * with pthread:        yes
+   * with coroutine:      amd64
+   * enable shared libs:  no
+   * dynamic library ext: so
+   * CFLAGS:              ${optflags} ${debugflags} ${warnflags}
+   * LDFLAGS:             -L. -fstack-protector-strong -rdynamic \
+                          -Wl,-export-dynamic
+   * DLDFLAGS:            -Wl,--compress-debug-sections=zlib
+   * optflags:            -O3 -fno-fast-math
+   * debugflags:          -ggdb3
+   * warnflags:           -Wall -Wextra -Wdeprecated-declarations \
+                          -Wduplicated-cond -Wimplicit-function-declaration \
+                          -Wimplicit-int -Wmisleading-indentation \
+                          -Wpointer-arith -Wwrite-strings \
+                          -Wimplicit-fallthrough=0 -Wmissing-noreturn \
+                          -Wno-cast-function-type \
+                          -Wno-constant-logical-operand -Wno-long-long \
+                          -Wno-missing-field-initializers \
+                          -Wno-overlength-strings \
+                          -Wno-packed-bitfield-compat \
+                          -Wno-parentheses-equality -Wno-self-assign \
+                          -Wno-tautological-compare -Wno-unused-parameter \
+                          -Wno-unused-value -Wsuggest-attribute=format \
+                          -Wsuggest-attribute=noreturn -Wunused-variable \
+                          -Wundef
+   * strip command:       strip -S -x
+   * install doc:         rdoc
+   * JIT support:         yes
+   * man page type:       doc
+   * BASERUBY -v:         ruby 3.0.0p0 (2020-12-25 revision 95aff21468) \
+                          [x86_64-linux]
+
+---
+
+instruktur@instruktur-A320MH:~/Downloads/ainan/ruby-3.1.1$ make
+	BASERUBY = /usr/share/rvm/rubies/ruby-3.0.0/bin/ruby --disable=gems
+	CC = gcc
+	LD = ld
+	LDSHARED = gcc -shared
+	CFLAGS = -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wduplicated-cond -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wwrite-strings -Wimplicit-fallthrough=0 -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-packed-bitfield-compat -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wsuggest-attribute=format -Wsuggest-attribute=noreturn -Wunused-variable -Wundef -std=gnu99 
+	XCFLAGS = -D_FORTIFY_SOURCE=2 -fstack-protector-strong -fno-strict-overflow -fvisibility=hidden -fexcess-precision=standard -DRUBY_EXPORT -fPIE -I. -I.ext/include/x86_64-linux -I./include -I. -I./enc/unicode/13.0.0
+	CPPFLAGS =   
+	DLDFLAGS = -Wl,--compress-debug-sections=zlib -fstack-protector-strong -pie  
+	SOLIBS = -lz -lpthread -lrt -lrt -lgmp -ldl -lcrypt -lm 
+	LANG = en_US.UTF-8
+	LC_ALL = 
+	LC_CTYPE = 
+	MFLAGS = 
+gcc (Ubuntu 9.4.0-1ubuntu1~20.04) 9.4.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.

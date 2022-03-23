@@ -1,4 +1,10 @@
 
+## articles
+
+https://www.reddit.com/r/Frontend/comments/qto8hm/frontend_fatigue/
+https://shopify.engineering/shopify-made-patterns-in-our-rails-apps 
+https://www.smashingmagazine.com/2016/11/not-an-imposter-fighting-front-end-fatigue/
+
 ## referensi
 
 HTTP

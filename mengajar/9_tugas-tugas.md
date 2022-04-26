@@ -13,6 +13,22 @@
 2. Menambah halaman register
 3. Melakukan upload gambar
 
+    #### Catatan
+
+    1. Enkripsi password
+        (tidak aman)
+        `$password = $_POST['password'];`
+        (aman, insyaallah..)
+        `$password = md5($_POST['password']);`
+        `$password = password_hash($_POST["password"], PASSWORD_DEFAULT);`
+
+    2. Filter input user
+        (membersihkan inputan)
+        `$name = filter_input(INPUT_POST, 'name', FILTER_SANITIZE_STRING);`
+        `$username = filter_input(INPUT_POST, 'username', FILTER_SANITIZE_STRING);`
+        (memvalidasi inputan)
+        `$email = filter_input(INPUT_POST, 'email', FILTER_VALIDATE_EMAIL);`
+
 
 ## JS: Manipulasi DOM
 Buat sebuah halaman web yang mengimplementasikan konsep DOM

@@ -1,6 +1,11 @@
 
 ## articles
 
+https://news.learnenough.com/why-learn-enough-html
+https://news.learnenough.com/not-just-css-but-also-layout
+https://news.learnenough.com/javascript-the-unavoidable-language
+
+https://observablehq.com/@observablehq/learn-javascript-introduction
 https://www.reddit.com/r/Frontend/comments/qto8hm/frontend_fatigue/
 https://shopify.engineering/shopify-made-patterns-in-our-rails-apps 
 https://www.smashingmagazine.com/2016/11/not-an-imposter-fighting-front-end-fatigue/
@@ -13,6 +18,8 @@ HTTP
 - https://dev.opera.com/articles/http-response-codes/
 
 https://owasp.org/www-pdf-archive/
+https://github.com/khoirulhudaa/valclass
+https://valclassui-v1.vercel.app/
 
 https://stackoverflow.com/questions/24900411/can-my-php-login-page-be-bypass#24900547
 https://www.guru99.com/learn-sql-injection-with-practical-example.html

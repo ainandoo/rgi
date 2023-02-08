@@ -20,9 +20,10 @@
 
 1. Basic (text, image, link, video)
 2. Form, tabel
-3. Semantic, inspect element
-4. New tag, advanced atribute
-4. Intro to Web API
+3. Inspect element
+(Opsional)
+4. New tag, advanced atribute, semantic
+5. Intro to Web API
 
 ## CSS
 
@@ -30,12 +31,37 @@
 2. Layout,
 3. Responsive
 
+## Aset desain
+
+Design tools
+- https://www.canva.com/
+- https://www.figma.com/
+
+Image, icon, logo asset
+- https://www.freepik.com/
+
+Font
+- https://fonts.google.com/
+- https://www.dafont.com/
+
+Stock photos
+- https://www.pexels.com/
+- https://unsplash.com/
+
+Color palette
+- https://colorhunt.co/
+
 ## (Optional) CSS Library & Framework
 
+Library
+1. animate.css
+
+Framework
 1. Bootstrap
     - Starter Template, Breakpoint, 
     - Container, ex: header 
     - Grid System: auto, setting 
+2. Tailwind
 
 ## JS Dasar
 

@@ -1,3 +1,6 @@
+
+============
+
 # Lowongan Programmer IT
 
 ## Penempatan :
@@ -14,7 +17,7 @@ Instalasi Teknologi Komunikasi Dan Informasi (RS. DR Soetomo)
 ## Keterampilan Wajib :
 - Algoritma Pemrograman
 - Bahasa pemrograman PHP dan JavaScript
-- HTMlL, CSS
+- HTML, CSS
 - Menggunakan teks editor & IDE (seperti: Notepad++ / Sublime Text / Netbean)
 - Database Postgres / MySQL
 

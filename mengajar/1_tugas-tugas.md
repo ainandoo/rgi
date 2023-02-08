@@ -1,4 +1,5 @@
-## mencoba hosting gratis untuk wordpress
+
+## Deployment: mencoba hosting gratis untuk wordpress
 
 - https://themegrill.com/blog/free-wordpress-hosting/
 - https://projasaweb.com/hosting-gratis-wordpress/
@@ -80,11 +81,11 @@ Buat satu halaman desain web:
 4. Cara menyelesaikan
 5. Langkah selanjutnya
 
-# Latihan: Publish Web Online
+# Git-GitHub: Publish Web Online
 
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website
 
-# Latihan: Git dan GitHub
+# Git-GitHub: Membuat akun
 
 1. Silakan lanjut membuat satu halaman website yang ada layout-nya
 2. Buat akun di github.com dan coba login
@@ -96,7 +97,7 @@ Buat satu halaman desain web:
     username.github.io
 
 
-# Latihan: Desain responsif dan git-cli
+# HTML-CSS: Desain responsif dan git-cli
 
 1. Lanjutkan membuat desain web responsif
 2. Belajar git melalui terminal
